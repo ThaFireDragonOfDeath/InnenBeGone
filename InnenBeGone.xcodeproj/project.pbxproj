@@ -47,6 +47,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		600BB50126B6C61E00BFD94B /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6080B72C26B5F26700046340 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		60FA08BC26AE0DD9008A558E /* InnenBeGone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InnenBeGone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60FA08BF26AE0DD9008A558E /* InnenBeGone.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = InnenBeGone.entitlements; sourceTree = "<group>"; };
 		60FA08C026AE0DD9008A558E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,8 @@
 		60FA08B326AE0DD9008A558E = {
 			isa = PBXGroup;
 			children = (
+				600BB50126B6C61E00BFD94B /* LICENSE */,
+				6080B72C26B5F26700046340 /* README.md */,
 				60FA08BE26AE0DD9008A558E /* InnenBeGone */,
 				60FA08D526AE0DDA008A558E /* InnenBeGone Extension */,
 				60FA08D226AE0DDA008A558E /* Frameworks */,
